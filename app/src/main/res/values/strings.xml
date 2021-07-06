@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Android4_4</string>
-    <string name="add">add</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="third_fragment">Third Fragment</string>
+    <string name="first_fragment">First Fragment</string>
 </resources>
